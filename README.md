@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steve-palla-di-cannone
-- 👀 I’m interested in ...
+- 👀 I’m interested in photograpjy
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website creation
 - 📫 How to reach me stefano_n9@hotmail.com
 
 <!---
